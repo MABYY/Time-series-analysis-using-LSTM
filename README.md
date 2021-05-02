@@ -1,5 +1,4 @@
 # Long-Short Term Memory Model - Time Series Forecast
-
 This project explores Bitcoin price using an LSTM model and technical analysis indicators. 
 
 ## Development setup
