@@ -1,10 +1,18 @@
 # Long-Short Term Memory Model - Time Series Forecast
 
-This project explores Bitcoin price using an LSTM model and technical analysis indicators. Tensorflow and Keras frameworks are adopted for implementation.
+This project explores Bitcoin price using an LSTM model and technical analysis indicators. 
+
+Tensorflow and Keras frameworks are adopted for the implementation.
+
+> pip install tensorflow
+
+The historical data can be accessed by installing yfinance library (https://pypi.org/project/yfinance/).
+
+> pip install yfinance
 
 ## The Model
 
-With the help of an LSTM network, we will try to predict the future price of Bitcoin. In order to do this, we used data a based on its price of the past 9 years and calculated technical analysis indicators. The historical data can be accessed by installing yfinance library (https://pypi.org/project/yfinance/).
+With the help of an LSTM network, we will try to predict the future price of Bitcoin. In order to do this, we used data a based on its price of the past 9 years and calculated technical analysis indicators. 
 
 We will try predicting the adjusted close stock price of BTC based on the past N=60 days. One could try different values of N and see how precision of the forecasting algorithm changes with the length of the interval.
 
