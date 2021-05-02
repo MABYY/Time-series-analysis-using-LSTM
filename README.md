@@ -1,4 +1,7 @@
-# Long-Short Term Memory Model - Time Series Forecast
+# Machine-Learning2
+Explore trading oportunities in Argie bonds using machine learning algorithms
+
+# Long-Short-Term-Memory-Model - Time Series Forecast
 This project explores Bitcoin price using an LSTM model and technical analysis indicators. 
 
 ## Development setup
